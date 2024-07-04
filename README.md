@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [httpshttps://github.com/ankitadhokane24/zomato-clone](httpshttps://github.com/ankitadhokane24/zomato-clone)
+- 👨‍💻 All of my projects are available at [https://github.com/ankitadhokane24/zomato-clone](httpshttps://github.com/ankitadhokane24/zomato-clone)
 
 - 📫 How to reach me **ankitadhokane24@gmail.com**
 
