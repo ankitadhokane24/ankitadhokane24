@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankita Dhokane</h1>
-<h3 align="center">Java Enthusiast, Interested in Web Development</h3>
+<h3 align="center">Java Enthusiast, Interested in Web Development-ReactJs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitadhokane24&label=Profile%20views&color=0e75b6&style=flat" alt="ankitadhokane24" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ankitadhokane24/zomato-clone](httpshttps://github.com/ankitadhokane24/zomato-clone)
+- 👨‍💻 All of my projects are available at [https://github.com/ankitadhokane24](httpshttps://github.com/ankitadhokane24)
 
 - 📫 How to reach me **ankitadhokane24@gmail.com**
 
