@@ -1,12 +1,13 @@
-# Hi 👋, I'm Ankita Dhokane
+<h1 align="center">Hi 👋, I'm Ankita Dhokane</h1>
+<h3 align="center">💻 WordPress Developer | ReactJS Enthusiast</h3>
 
-### 💻 WordPress Developer | ReactJS Enthusiast
+<p align="center">
+I'm a passionate developer who loves building responsive websites, modern web applications, and user-friendly digital experiences.
+<br/>
+Currently sharpening my skills in ReactJS, JavaScript, and modern web development, while continuing to work with WordPress and PHP.
+</p>
 
-I'm a passionate developer who loves building **responsive websites, modern web applications, and user-friendly digital experiences**.
-
-Currently, I'm sharpening my skills in **ReactJS, JavaScript, and modern web development**, while continuing to work with **WordPress and PHP**.
-
----
+<br/>
 
 ## 🚀 About Me
 
@@ -17,112 +18,111 @@ Currently, I'm sharpening my skills in **ReactJS, JavaScript, and modern web dev
 - 🔧 Interested in **performance optimization and automation**
 - 📂 Check out my projects below
 
----
+<br/>
 
 ## 🛠️ Languages & Technologies
 
 **Programming Languages**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 **Web Development**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45" height="45" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 **Database & Tools**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
+<br/>
 
 ## 🔥 Featured Projects
 
-### 🌐 Web Development Projects
+### 🌐 Web Development
 
-- **OM Electricals & Developers** — React-based website
-  🔗 [omelectricals.lovable.app](https://omelectricals.lovable.app/)
-- **BuyDroply** — E-commerce website
-  🔗 [buydroply.com](https://buydroply.com/)
-- **Silver Lotus School** — School website
-  🔗 [silverlotusschool.com](https://silverlotusschool.com/)
+| Project | Description | Link |
+|---|---|---|
+| **OM Electricals & Developers** | React-based website | [Visit »](https://omelectricals.lovable.app/) |
+| **BuyDroply** | E-commerce website | [Visit »](https://buydroply.com/) |
+| **Silver Lotus School** | School website | [Visit »](https://silverlotusschool.com/) |
 
-### 💼 WordPress Projects
+### 💼 WordPress
 
-- **KiteRiders Digital** — 🔗 [kiteridersdigital.com](https://kiteridersdigital.com/)
-- **Kaveri Deore** — 🔗 [kaverideore.com](https://kaverideore.com/)
-- **Happy Tech India** — 🔗 [happytechindia.com](https://happytechindia.com/)
-- **Snehi Infracare** — 🔗 [snehinfracare.com](https://snehinfracare.com/)
-- **Samarth Trust** — 🔗 [samarthtrust.in](https://samarthtrust.in/)
-- **3PD Tech** — 🔗 [3pdtech.digital](https://3pdtech.digital/)
-- **I Am Samarth** — 🔗 [iamsamarth.com](https://iamsamarth.com/)
+| Project | Link |
+|---|---|
+| **KiteRiders Digital** | [Visit »](https://kiteridersdigital.com/) |
+| **Kaveri Deore** | [Visit »](https://kaverideore.com/) |
+| **Happy Tech India** | [Visit »](https://happytechindia.com/) |
+| **Snehi Infracare** | [Visit »](https://snehinfracare.com/) |
+| **Samarth Trust** | [Visit »](https://samarthtrust.in/) |
+| **3PD Tech** | [Visit »](https://3pdtech.digital/) |
+| **I Am Samarth** | [Visit »](https://iamsamarth.com/) |
 
 ### 🚀 Landing Pages
 
-- **Summerangan 2026** — 🔗 [sharasa.in/summerangan2-2026](https://sharasa.in/summerangan2-2026/)
-- **Asian Buddha Event** — 🔗 [drsonygroup.com/asian-buddha-event](https://drsonygroup.com/asian-buddha-event/)
+| Project | Link |
+|---|---|
+| **Summerangan 2026** | [Visit »](https://sharasa.in/summerangan2-2026/) |
+| **Asian Buddha Event** | [Visit »](https://drsonygroup.com/asian-buddha-event/) |
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitadhokane24&show_icons=true&locale=en" alt="Ankita's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitadhokane24&show_icons=true&locale=en&theme=default" alt="Ankita's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitadhokane24&show_icons=true&locale=en&layout=compact&theme=default" alt="Ankita's Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitadhokane24&show_icons=true&locale=en&layout=compact" alt="Ankita's Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=ankitadhokane24&theme=default" alt="Ankita's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ankitadhokane24" alt="Ankita's GitHub Streak" />
-</p>
-
----
+<br/>
 
 ## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/ankita-dhokane24" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/ankitadhokane" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="mailto:ankitadhokane24@gmail.com">📧 Email</a>
+  <a href="mailto:ankitadhokane24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+## 💡 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-UI%2FUX-black?style=flat-square&logo=figma" />
+  <img src="https://img.shields.io/badge/-Modern%20Frontend-black?style=flat-square&logo=vercel" />
 </p>
 
 ---
 
-## 💡 Currently Learning
-
-```text
-ReactJS
-JavaScript
-Advanced Web Development
-UI/UX
-Modern Frontend Development
-```
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories and connect with me. 😊
+<p align="center">⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 😊</p>
