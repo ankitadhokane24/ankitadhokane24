@@ -2,26 +2,26 @@
 
 ### 💻 WordPress Developer | ReactJS Enthusiast
 
-I'm a passionate developer interested in building **responsive websites, modern web applications, and user-friendly digital experiences**.
+I'm a passionate developer who loves building **responsive websites, modern web applications, and user-friendly digital experiences**.
 
-Currently, I'm focusing on improving my skills in **ReactJS, JavaScript, and modern web development** while continuing to work with WordPress and PHP.
+Currently, I'm sharpening my skills in **ReactJS, JavaScript, and modern web development**, while continuing to work with **WordPress and PHP**.
 
 ---
 
 ## 🚀 About Me
 
-* 💼 Currently working as a **WordPress Developer**
-* 🌱 Currently learning **ReactJS & JavaScript**
-* 💻 Interested in **Web Development & UI/UX**
-* ⚡ Experienced in building **responsive websites, landing pages and business websites**
-* 🔧 Interested in **performance optimization and automation**
-* 📂 Check out my projects below
+- 💼 Currently working as a **WordPress Developer**
+- 🌱 Currently learning **ReactJS & JavaScript**
+- 💻 Interested in **Web Development & UI/UX**
+- ⚡ Experienced in building **responsive websites, landing pages, and business websites**
+- 🔧 Interested in **performance optimization and automation**
+- 📂 Check out my projects below
 
 ---
 
 ## 🛠️ Languages & Technologies
 
-### Programming Languages
+**Programming Languages**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
@@ -31,7 +31,7 @@ Currently, I'm focusing on improving my skills in **ReactJS, JavaScript, and mod
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
 </p>
 
-### Web Development
+**Web Development**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
@@ -41,7 +41,7 @@ Currently, I'm focusing on improving my skills in **ReactJS, JavaScript, and mod
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45" height="45" alt="WordPress"/>
 </p>
 
-### Database & Tools
+**Database & Tools**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
@@ -57,45 +57,27 @@ Currently, I'm focusing on improving my skills in **ReactJS, JavaScript, and mod
 
 ### 🌐 Web Development Projects
 
-* **OM Electricals & Developers** — React-based website
-  🔗 https://omelectricals.lovable.app/
-
-* **BuyDroply** — E-commerce website
-  🔗 https://buydroply.com/
-
-* **Silver Lotus School** — School website
-  🔗 https://silverlotusschool.com/
+- **OM Electricals & Developers** — React-based website
+  🔗 [omelectricals.lovable.app](https://omelectricals.lovable.app/)
+- **BuyDroply** — E-commerce website
+  🔗 [buydroply.com](https://buydroply.com/)
+- **Silver Lotus School** — School website
+  🔗 [silverlotusschool.com](https://silverlotusschool.com/)
 
 ### 💼 WordPress Projects
 
-* **KiteRiders Digital**
-  🔗 https://kiteridersdigital.com/
-
-* **Kaveri Deore**
-  🔗 https://kaverideore.com/
-
-* **Happy Tech India**
-  🔗 https://happytechindia.com/
-
-* **Snehi Infracare**
-  🔗 https://snehinfracare.com/
-
-* **Samarth Trust**
-  🔗 https://samarthtrust.in/
-
-* **3PD Tech**
-  🔗 https://3pdtech.digital/
-
-* **I Am Samarth**
-  🔗 https://iamsamarth.com/
+- **KiteRiders Digital** — 🔗 [kiteridersdigital.com](https://kiteridersdigital.com/)
+- **Kaveri Deore** — 🔗 [kaverideore.com](https://kaverideore.com/)
+- **Happy Tech India** — 🔗 [happytechindia.com](https://happytechindia.com/)
+- **Snehi Infracare** — 🔗 [snehinfracare.com](https://snehinfracare.com/)
+- **Samarth Trust** — 🔗 [samarthtrust.in](https://samarthtrust.in/)
+- **3PD Tech** — 🔗 [3pdtech.digital](https://3pdtech.digital/)
+- **I Am Samarth** — 🔗 [iamsamarth.com](https://iamsamarth.com/)
 
 ### 🚀 Landing Pages
 
-* **Summerangan 2026**
-  🔗 https://sharasa.in/summerangan2-2026/
-
-* **Asian Buddha Event**
-  🔗 https://drsonygroup.com/asian-buddha-event/
+- **Summerangan 2026** — 🔗 [sharasa.in/summerangan2-2026](https://sharasa.in/summerangan2-2026/)
+- **Asian Buddha Event** — 🔗 [drsonygroup.com/asian-buddha-event](https://drsonygroup.com/asian-buddha-event/)
 
 ---
 
@@ -121,14 +103,10 @@ Currently, I'm focusing on improving my skills in **ReactJS, JavaScript, and mod
   <a href="https://linkedin.com/in/ankita-dhokane24" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-
   <a href="https://www.hackerrank.com/ankitadhokane" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
   </a>
-
-  <a href="mailto:ankitadhokane24@gmail.com">
-    📧 Email
-  </a>
+  <a href="mailto:ankitadhokane24@gmail.com">📧 Email</a>
 </p>
 
 ---
